@@ -1,0 +1,11 @@
+.FancyWeather {
+  background: #797878;
+  ;
+}
+
+.nextDays {
+  display: flex;
+  flex-direction: row;
+  width: 582px;
+  margin-left: 80px;
+}
